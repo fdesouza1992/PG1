@@ -1,0 +1,6 @@
+﻿  Debugging Exercise.cpp
+D:\FSU\PG1\Labs\Lab2\Debugging Exercise\Debugging Exercise\Debugging Exercise.cpp(49,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Support.cpp
+D:\FSU\PG1\Labs\Lab2\Debugging Exercise\Debugging Exercise\Support.cpp(30,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Debugging Exercise.vcxproj -> D:\FSU\PG1\Labs\Lab2\Debugging Exercise\x64\Debug\Debugging Exercise.exe

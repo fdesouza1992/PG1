@@ -1,0 +1,13 @@
+﻿  Lab 6A.cpp
+C:\Users\fdeso\Desktop\Lab 6A\Lab 6A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%206A.cpp')
+  
+  Submission.cpp
+  Test.cpp
+C:\Users\fdeso\Desktop\Lab 6A\Lab 6A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+  Generating Code...
+  Lab 6A.vcxproj -> C:\Users\fdeso\Desktop\Lab 6A\x64\Debug\Lab 6A.exe
+  0 File(s) copied
+  0 File(s) copied

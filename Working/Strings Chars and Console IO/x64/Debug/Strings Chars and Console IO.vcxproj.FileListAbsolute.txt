@@ -1,0 +1,4 @@
+C:\FS\PG1\Starter Projects\Strings Chars and Console IO\x64\Debug\Strings Chars and Console IO.exe
+C:\FSU\PG1\Strings Chars and Console IO\x64\Debug\Strings Chars and Console IO.exe
+C:\FSU\PG1\Working\Strings Chars and Console IO\x64\Debug\Strings Chars and Console IO.exe
+D:\FSU\PG1\Working\Strings Chars and Console IO\x64\Debug\Strings Chars and Console IO.exe

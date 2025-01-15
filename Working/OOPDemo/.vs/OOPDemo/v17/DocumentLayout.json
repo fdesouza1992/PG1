@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FSU\\PG1\\Working\\OOPDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF928F31-8958-4396-A964-3A61797D5A02}|OOPDemo\\OOPDemo.vcxproj|E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF928F31-8958-4396-A964-3A61797D5A02}|OOPDemo\\OOPDemo.vcxproj|solutionrelative:OOPDemo\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF928F31-8958-4396-A964-3A61797D5A02}|OOPDemo\\OOPDemo.vcxproj|E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\OOPDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF928F31-8958-4396-A964-3A61797D5A02}|OOPDemo\\OOPDemo.vcxproj|solutionrelative:OOPDemo\\OOPDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\Car.cpp",
+              "RelativeDocumentMoniker": "OOPDemo\\Car.cpp",
+              "ToolTip": "E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\Car.cpp",
+              "RelativeToolTip": "OOPDemo\\Car.cpp",
+              "ViewState": "AQIAABcAAADAMzMzM3MvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T13:51:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOPDemo.cpp",
+              "DocumentMoniker": "E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\OOPDemo.cpp",
+              "RelativeDocumentMoniker": "OOPDemo\\OOPDemo.cpp",
+              "ToolTip": "E:\\FSU\\PG1\\Working\\OOPDemo\\OOPDemo\\OOPDemo.cpp",
+              "RelativeToolTip": "OOPDemo\\OOPDemo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T06:18:43.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

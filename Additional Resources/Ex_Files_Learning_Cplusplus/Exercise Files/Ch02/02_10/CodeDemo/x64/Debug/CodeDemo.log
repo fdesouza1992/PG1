@@ -1,0 +1,3 @@
+﻿  CodeDemo.cpp
+D:\FSU\PG1\Additional Resources\Ex_Files_Learning_Cplusplus\Exercise Files\Ch02\02_10\CodeDemo\CodeDemo.cpp(13,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CodeDemo.vcxproj -> D:\FSU\PG1\Additional Resources\Ex_Files_Learning_Cplusplus\Exercise Files\Ch02\02_10\CodeDemo\x64\Debug\CodeDemo.exe

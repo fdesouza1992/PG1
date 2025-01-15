@@ -1,0 +1,13 @@
+﻿  Lab 3A.cpp
+D:\FSU\PG1\Labs\Lab 3A\Lab 3A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%203A.cpp')
+  
+  Submission.cpp
+  Test.cpp
+D:\FSU\PG1\Labs\Lab 3A\Lab 3A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+  Generating Code...
+  Lab 3A.vcxproj -> D:\FSU\PG1\Labs\Lab 3A\x64\Debug\Lab 3A.exe
+  0 File(s) copied
+  0 File(s) copied

@@ -1,0 +1,21 @@
+enum Type {
+	NONE,
+	NORMAL,
+	BUG,
+	LEAF,
+	FIGHTING,
+	POISON,
+	PSYCHIC,
+	GROUND,
+	DRAGON,
+	FIRE,
+	WATER,
+	ICE,
+	ELECTRIC,
+	ROCK,
+	GHOST,
+	FLYING,
+};
+
+//If attack.Type == FIRE && defender.Type == WATER
+	//NOT VERY EFFECTIVE

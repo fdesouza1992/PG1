@@ -1,0 +1,27 @@
+﻿  Challenge1.cpp
+D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38): error C2672: 'std::empty': no matching overloaded function found
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\xutility(1942,44):
+  could be 'bool std::empty(std::initializer_list<_Elem>) noexcept'
+  	D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38):
+  	'bool std::empty(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\xutility(1937,44):
+  or       'bool std::empty(const _Ty (&)[_Size]) noexcept'
+  	D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38):
+  	'bool std::empty(const _Ty (&)[_Size]) noexcept': could not deduce template argument for 'const _Ty (&)[_Size]' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\xutility(1930,44):
+  or       'unknown-type std::empty(const _Container &) noexcept(<expr>)'
+  	D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38):
+  	Failed to specialize function template 'unknown-type std::empty(const _Container &) noexcept(<expr>)'
+  		D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38):
+  		With the following template arguments:
+  			D:\FSU\PG1\Challenges\Week 2\Challenge1\Challenge1\Challenge1.cpp(30,38):
+  			'_Container=int'
+  		C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\xutility(1932,23):
+  		left of '.empty' must have class/struct/union
+  			C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\xutility(1932,23):
+  			type is 'const _Container'
+          with
+          [
+              _Container=int
+          ]
+  

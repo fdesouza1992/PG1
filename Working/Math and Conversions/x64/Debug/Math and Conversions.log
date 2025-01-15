@@ -1,0 +1,4 @@
+﻿  Math and Conversions.cpp
+D:\FSU\PG1\Working\Math and Conversions\Math and Conversions.cpp(20,9): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\FSU\PG1\Working\Math and Conversions\Math and Conversions.cpp(27,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Math and Conversions.vcxproj -> D:\FSU\PG1\Working\Math and Conversions\x64\Debug\Math and Conversions.exe

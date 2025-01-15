@@ -1,0 +1,22 @@
+﻿  Control Flow Conditional Statements.cpp
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(34,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(44,21): error C2065: 'num': undeclared identifier
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(46,2): error C2181: illegal else without matching if
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(64,2): error C3861: 'swtich': identifier not found
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(65,3): error C2059: syntax error: 'case'
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(68,3): error C2046: illegal case
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(71,3): error C2046: illegal case
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(74,3): error C2046: illegal case
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(77,3): error C2046: illegal case
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(80,3): error C2047: illegal default
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(67,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(70,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(73,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(76,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(79,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(82,4): error C2043: illegal break
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(90,2): error C2059: syntax error: 'if'
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(90,28): error C2143: syntax error: missing ';' before '{'
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(90,28): error C2447: '{': missing function header (old-style formal list?)
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(104,1): error C2059: syntax error: '}'
+D:\FSU\PG1\Working\Control Flow Conditional Statements\Control Flow Conditional Statements.cpp(104,1): error C2143: syntax error: missing ';' before '}'

@@ -1,0 +1,20 @@
+﻿  Lab 8A.cpp
+C:\Users\fdeso\Desktop\Lab 8A\Lab 8A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%208A.cpp')
+  
+C:\Users\fdeso\Desktop\Lab 8A\Lab 8A\Student.cpp(46,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Lab%208A.cpp')
+  
+  Student.cpp
+C:\Users\fdeso\Desktop\Lab 8A\Lab 8A\Student.cpp(46,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Tester.cpp
+C:\Users\fdeso\Desktop\Lab 8A\Lab 8A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Tester.cpp')
+  
+C:\Users\fdeso\Desktop\Lab 8A\Lab 8A\Student.cpp(46,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Tester.cpp')
+  
+  Generating Code...
+  Lab 8A.vcxproj -> C:\Users\fdeso\Desktop\Lab 8A\x64\Debug\Lab 8A.exe
+  0 File(s) copied
+  0 File(s) copied
